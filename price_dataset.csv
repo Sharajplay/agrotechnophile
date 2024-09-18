@@ -1,0 +1,156 @@
+﻿state,district,market,crop,date,minimum_price,maximum_price,price
+Andaman and Nicobar,nicobar,car nicobar,onion,25-08-2024,60,70,50
+Andaman and Nicobar,nicobar,car nicobar,potato,25-08-2024,60,80,70
+Andaman and Nicobar,north and middle andaman,mayabandar,ginger,25-08-2024,2,4,3
+Andaman and Nicobar,north and middle andaman,diglipur,tomato,25-08-2024,100,140,130
+Andhra Pradesh,kurnool,kunool,onion,25-08-2024,36.41,50,29.19
+Andhra Pradesh,chittor,palamaner,potato,25-08-2024,20,30,25
+Andhra Pradesh,chittoor,chittoor,mango,25-08-2024,25,35,30
+Andhra Pradesh,chittor,palamaner,tomato,25-08-2024,21,25,23
+Bihar,patna,danapur,onion,25-08-2024,38,40,39
+Bihar,patna,danapur,potato,25-08-2024,36,50,38
+Chandigarh,chandigrah,"chandigarh(grain,fruits)",onion,25-08-2024,20,40,30
+Chandigarh,chandigrah,chandigarh(grain\fruit),potato,25-08-2024,20,40,35
+Chandigarh,chandigarh,chandigarh,ginger,25-08-2024,30,50,35
+Chandigarh,chandigarh,chandigarh,apple,25-08-2024,30,100,80
+Chandigarh,chandigarh,chandigarh (grain/fruit),peas wet,25-08-2024,50,80,60
+Chandigarh,chandigarh,chandigarh(grain/fruit),mango,25-08-2024,20,70,40
+Chandigarh,chandigarh ,chandigarh (grain/fruit),tomato,25-08-2024,8,32,20
+Chattisgarh,durg,durg,onion,25-08-2024,40,45,40
+Chattisgarh,durg,durg,potato,25-08-2024,26,45,27
+Chattisgarh,durg,durg,ginger,25-08-2024,100,120,120
+Chattisgarh,rajnandgaon,rajnandgaon,apple,25-08-2024,210,270,240
+Chattisgarh,bilaspur,tiphra,peas wet,25-08-2024,26,28,27
+Chattisgarh,bilaspur,tiphra,mango,25-08-2024,75,80,78
+Chattisgarh,raigarh,raigarh,tomato,25-08-2024,25,35,27.5
+Goa,north  goa,mapusa,onion,25-08-2024,22,27,25
+Goa,north goa,mapusa,potato,25-08-2024,22,27,25
+Goa,north goa,mapusa,apple,25-08-2024,100,100,100
+Goa,north goa,mapusa,mango,25-08-2024,20,30,25
+Gujarat,morbi,morbi,onion,25-08-2024,2.51,47,3.64
+Gujarat,navsari,bilimora,potato,25-08-2024,25.1,47,36.4
+Gujarat,surat,surat,ginger,25-08-2024,30,90,60
+Gujarat,bharuch,bharuch,apple,25-08-2024,40,90,75
+Gujarat,ahmedabad,ahmedabad,peas wet,25-08-2024,50,100,80
+Gujarat,surat,mahuva,mango,25-08-2024,12.5,17.5,15
+Gujarat,kheda,nadiad,tomato,25-08-2024,20,35,22.5
+Haryana,palwal,palwal,onion,25-08-2024,15,25,20
+Haryana,ambala,shahzadpur,potato,25-08-2024,15,25,20
+Haryana,sonipat,sonepat,ginger,25-08-2024,100,120,100
+Haryana,panipat,samalkha,apple,25-08-2024,30,30,30
+Haryana,panchkula,raipur rai,peas wet,25-08-2024,36,40,36
+Haryana,gurgaon,gurgaon,mango,25-08-2024,40,60,50
+Haryana,gurgaon,gurgaon,tomato,25-08-2024,20,30,25
+Himachal Pradesh,una,santoshgrah,onion,25-08-2024,40,50,43
+Himachal Pradesh,mandi,dhanotu(mandi),potato,25-08-2024,40,50,43
+Himachal Pradesh,kangra,kangra,ginger,25-08-2024,130,140,135
+Himachal Pradesh,kangra,kangra,apple,25-08-2024,60,120,75
+Himachal Pradesh,kangra,polampur,peas wet,25-08-2024,50,100,80
+Himachal Pradesh,una,una,mango,25-08-2024,50,110,85
+Himachal Pradesh,hamirpur,hamirpur,tomato,25-08-2024,42,35,38
+Jammu and Kashmir,jammu ,batote,onion,25-08-2024,43,50,44
+Jammu and Kashmir,jammu,batote,potato,25-08-2024,43,50,44
+Jammu and Kashmir,srinagar,parimpore,ginger,25-08-2024,120,140,130
+Jammu and Kashmir,jammu,narwal jammu,apple,25-08-2024,80,100,90
+Jammu and Kashmir,srinagar,parimpore,peas wet,25-08-2024,80,90,85
+Jammu and Kashmir,kathua,kathua,mango,25-08-2024,55,50,52.5
+Jammu and Kashmir,udhampur,udhampur,tomato,25-08-2024,20,25,22.5
+Karnataka,belgaum,belgaum,onion,25-08-2024,30,50,40
+Karnataka,raichur,raichu,potato,25-08-2024,30,50,40
+Karnataka,banglore,ramanagara,ginger,25-08-2024,40,115,80
+Karnataka,banglore,banglore,apple,25-08-2024,100,140,120
+Karnataka,bangalore,binny mills,peas wet,25-08-2024,50,60,55
+Karnataka,kolar,bangarpet,mango,25-08-2024,20,25,22
+Karnataka,bangalore,binny mill,tomato,25-08-2024,10,12,11
+Kerala,kottayam,pala,onion,25-08-2024,50,80,53
+Kerala,kollam,punalur vfpck,potato,25-08-2024,50,80,53
+Kerala,thiruvananthapuram,parassala,ginger,25-08-2024,110,110,110
+Kerala,idukki,kattappana,apple,25-08-2024,234,243,240
+Kerala,palakad,pattambi,mango,25-08-2024,70,80,75
+Kerala,kottayam,thalayolaparambu,tomato,25-08-2024,30,35,33
+Madhya Pradesh,ujjain,badnagar,onion,25-08-2024,25.1,42.31,25.1
+Madhya Pradesh,ujjian,badnagar,potato,25-08-2024,25.1,42.31,25.1
+Madhya Pradesh,indore,indore,ginger,25-08-2024,85.61,85.61,85.61
+Madhya Pradesh,morena,morena,apple,25-08-2024,40,40,40
+Madhya Pradesh,morena,morena,mango,25-08-2024,15,15,15
+Madhya Pradesh,morena,porsa,tomato,25-08-2024,8,8,8
+Maharashtra,pune,pune(pimpri),onion,25-08-2024,5,55,26
+Maharashtra,pune,pune,potato,25-08-2024,5,55,26.5
+Maharashtra,mumbai,mumbai,ginger,25-08-2024,60,120,90
+Maharashtra,pune,pune,apple,25-08-2024,70,100,85
+Maharashtra,thane,kalyan,peas wet,25-08-2024,60,70,65
+Maharashtra,sholapur,akluj,mango,25-08-2024,50,140,110
+Maharashtra,satara,vai,tomato,25-08-2024,10,20,16
+Manipur,thoubal,thoubal,onion,25-08-2024,62,70,66
+Manipur,bishnupur,bishenpur,potato,25-08-2024,62,70,66
+Manipur,imphal east,lamlong bazaar,ginger,25-08-2024,130,140,135
+Meghalaya,east garo hills,williamnagar,onion,25-08-2024,45,50,47
+Meghalaya,west khasi hills,nongstoin,potato,25-08-2024,45,50,47.5
+Meghalaya,east khasi hills,shillong,ginger,25-08-2024,100,140,120
+Meghalaya,west khasi hills,nongstoin,apple,25-08-2024,75,85,80
+Meghalaya,west khasi hills,nongstoin,peas wet,25-08-2024,36,44,40
+Meghalaya,south west khasi hills,mawkyrwat,mango,25-08-2024,50,55,52
+Meghalaya,west khasi hills,nongstoin,tomato,25-08-2024,45,55,50
+Nagaland,peren,tenning,onion,25-08-2024,55,65,60
+Nagaland,peren,tenning,potato,25-08-2024,55,65,60
+Nagaland,kohima,kohima,ginger,25-08-2024,200,220,210
+Nagaland,peren,tenning,tomato,25-08-2024,30,35,33
+NCT of Delhi,delhi,shahdara,onion,25-08-2024,20,42.5,34.69
+NCT of Delhi,delhi,azadpur,potato,25-08-2024,20,42.5,34.69
+NCT of Delhi,delhi,azadpur,ginger,25-08-2024,20,40,29
+NCT of Delhi,delhi ,keshopur,peas wet,25-08-2024,60,120,90
+NCT of Delhi,delhi,azadpur,mango,25-08-2024,6,56,37
+NCT of Delhi,delhi,keshopur,tomato,25-08-2024,36,12,32
+Odisha,boudh,boudh,onion,25-08-2024,40,50,45
+Odisha,nuapada,khariar,potato,25-08-2024,40,50,45
+Odisha,koraput,koraput,ginger,25-08-2024,90,110,100
+Odisha,bhadrak,bhadrak,mango,25-08-2024,35,45,40
+Odisha,rayagada,gunpur,tomato,25-08-2024,50,75,60
+Punjab,ferozpur,zira,onion,25-08-2024,14,55,20
+Punjab,ferozpur,zira,potato,25-08-2024,14,55,20
+Punjab,mohali,lalru,ginger,25-08-2024,50,60,60
+Punjab,ferozpur,zira,apple,25-08-2024,60,66,63
+Punjab,ludhiana,ludhiana,peas wet,25-08-2024,40,60,50
+Punjab,sangrur,malerkotla,mango,25-08-2024,15,30,25
+Punjab,amristar,rayya,tomato,25-08-2024,23,23,23
+Rajasthan,sikar,sikar,onion,25-08-2024,15,50,22.5
+Rajasthan,sikar,sikar,potato,25-08-2024,15,50,22.5
+Rajasthan,jaipur,jaipur,ginger,25-08-2024,32,150,91
+Rajasthan,jodhpur,jodhpur,apple,25-08-2024,40,80,60
+Rajasthan,ajmer,ajmer,peas wet,25-08-2024,70,100,85
+Rajasthan,jaipur,jaipur,mango,25-08-2024,40,100,70
+Rajasthan,chittorgarh,nimbahera,tomato,25-08-2024,20,35,25
+Tamil Nadu,theni,andipatti,onion,25-08-2024,45,60,50
+Tamil Nadu,theni,andipatti,potato,25-08-2024,45,60,50
+Tamil Nadu,coimbatore,kurichi,ginger,25-08-2024,90,128,128
+Tamil Nadu,theni,theni,apple,25-08-2024,180,260,260
+Tamil Nadu,thanjavur,kumbakonam,mango,25-08-2024,120,220,220
+Tamil Nadu,vellore,vaniyambadi,tomato,25-08-2024,60,70,70
+Telangana,ranga reddy,kukatpally,onion,25-08-2024,25.11,52,44
+Telangana,hyderabad,erragadda,potato,25-08-2024,25.1,52,44
+Telangana,hyderabad,mahboob manison,ginger,25-08-2024,18,60,38.33
+Telangana,hyderabad,gaddiannaram,apple,25-08-2024,44,183,94
+Telangana,hyderabad,gaddiannaram,mango,25-08-2024,39,39,39
+Telangana,hyderabad,bowenpally,tomato,25-08-2024,10,16,12
+Tripura,north tripura,dasda,onion,25-08-2024,40,50,45
+Tripura,north tripura,dasda,potato,25-08-2024,40,50,45
+Tripura,south district,santir bazar,ginger,25-08-2024,180,190,185
+Tripura,dhalai,halahali,apple,25-08-2024,150,200,180
+Tripura,unokoti,pabiacherra,tomato,25-08-2024,60,80,59
+Uttar Pradesh,saharanpur,saharanpur,ginger,25-08-2024,48,52,50
+Uttar Pradesh,khiri,kopaganj,apple,25-08-2024,89,90,89.4
+Uttar Pradesh,baghpet,khekda,peas wet,25-08-2024,70,90,80
+Uttar Pradesh,gautam budh nagar,dadri,mango,25-08-2024,35,40,37
+Uttarkhand,nanital,haldwani,onion,25-08-2024,10,18,18
+Uttarkhand,haridwar,manglaur,potato,25-08-2024,10,18,18
+Uttarkhand,dehradoon,dehradoon,ginger,25-08-2024,32,45,35
+Uttarkhand,nanital,haldwani,apple,25-08-2024,30,50,40
+Uttarkhand,dehradoon,dehradoon,peas wet,25-08-2024,19.5,26,25
+Uttarkhand,dehradoon,rishikesh,mango,25-08-2024,45,65,55
+Uttarkhand,nanital,haldwani,tomato,25-08-2024,10,16,13
+West Bengal,nadia,karimpur,onion,25-08-2024,34,55,35
+West Bengal,hooghly,champadanga,potato,25-08-2024,34,55,35
+West Bengal,drajeeling,siliguri,ginger,25-08-2024,110,120,115
+West Bengal,kolkata,mechua,apple,25-08-2024,110,130,120
+West Bengal,kolkata,mechua,mango,25-08-2024,90,100,90
+West Bengal,paschim bardhaman,durgapur,tomato,25-08-2024,27,51,28.5
