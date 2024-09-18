@@ -183,7 +183,7 @@ if app_selection == "Yield Predictor - Feature":
             # Center and display yield information
             st.markdown(""" 
             <div style='text-align: center;'>
-            Yield Information:<br>
+            Yield Information :<br>
             1. Hectare (ha): A unit of land area, equal to 10,000 square meters or 2.47 acres.<br>
             2. Annual Rainfall: Total rainfall in a year, usually measured in millimeters or inches.<br>
             3. Fertilizer: Substances added to soil to promote plant growth and fertility.<br>
