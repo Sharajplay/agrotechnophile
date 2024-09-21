@@ -10,6 +10,14 @@ import joblib
 import base64
 import gzip
 
+hide_menu_style = """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    </style>
+"""
+st.markdown(hide_menu_style, unsafe_allow_html=True)
+
 # Paths to the dataset files (replace with your actual paths)
 price_data_path = 'price_dataset.csv'
 yield_data_path = 'crop_yield_cleaned.csv'
