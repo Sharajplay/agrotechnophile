@@ -10,11 +10,13 @@ import joblib
 import base64
 import gzip
 
+# Hide the Streamlit menu, footer, and GitHub icon
 hide_streamlit_style = """
     <style>
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-    .css-1lsmgbg.e1sbm7k31 {visibility: hidden;}
+    .viewerBadge_container__1QSob {visibility: hidden;}
+    .css-1lsmgbg.egzxvld1 {visibility: hidden;}
     </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
