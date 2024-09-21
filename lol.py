@@ -10,13 +10,14 @@ import joblib
 import base64
 import gzip
 
-hide_menu_style = """
+hide_streamlit_style = """
     <style>
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
+    .css-1lsmgbg.e1sbm7k31 {visibility: hidden;}
     </style>
 """
-st.markdown(hide_menu_style, unsafe_allow_html=True)
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 # Paths to the dataset files (replace with your actual paths)
 price_data_path = 'price_dataset.csv'
