@@ -11,15 +11,12 @@ import base64
 import gzip
 
 # Hide the Streamlit menu, footer, and GitHub icon
-hide_streamlit_style = """
-    <style>
-    #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
-    .viewerBadge_container__1QSob {visibility: hidden;}
-    .css-1lsmgbg.egzxvld1 {visibility: hidden;}
-    </style>
-"""
-st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+# Load custom CSS
+def load_css(file_name):
+    with open(file_name) as f:
+        st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+
+load_css("style.css")
 
 # Paths to the dataset files (replace with your actual paths)
 price_data_path = 'price_dataset.csv'
