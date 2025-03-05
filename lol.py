@@ -10,12 +10,6 @@ import joblib
 import base64
 import gzip
 
-# Hide the Streamlit menu, footer, and GitHub icon
-# Load custom CSS
-def load_css(file_name):
-    with open(file_name) as f:
-        st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-
 load_css("style.css")
 
 # Paths to the dataset files (replace with your actual paths)
